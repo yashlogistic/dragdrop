@@ -1,0 +1,59 @@
+
+.ars_CollBanner{
+   width: 1024px;
+}
+
+.ars_CollMainbox{
+    width: 300px;
+    float: left;
+}
+.ars_Collbody{
+    border: 0;
+}
+
+body {
+    background-color : #c3ccd5;
+}
+
+.sec_col{
+    float: left;
+    width: 65%
+}
+
+.header {
+    background-color: #fff;
+}
+
+.header .logoArea {
+    float: left;
+    margin: 0px 0px 0px 20px;
+    width: 200px;
+    height: 75px;
+}
+
+.header .logoArea img{
+    width: 200px;
+    height: 75px;
+    
+    
+}
+.header .tagLine{
+    float: right;
+    margin-top: 0px;
+    margin-right: 20px;
+    position: relative;
+    padding: 20px;
+}
+
+.backGround{
+    height: 300px;
+    background-color: #444
+}
+.exportDiv{
+    float: right;
+}
+.clearboth{
+    clear: both;
+    overflow: hidden;
+}
+
